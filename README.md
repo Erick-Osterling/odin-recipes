@@ -1,0 +1,1 @@
+This project is about basic HTML. We will do a recipes web with a home page that will have links to other pages in which you have more details about a recipe.
